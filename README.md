@@ -1,6 +1,6 @@
 # LoginForm
 
-## Demo:
+## Demo
 
 ![Alt text](image/image.png)
 
